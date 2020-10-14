@@ -1,2 +1,3 @@
 zmiana 07B
 zmiana
+naprawa błędów - hotFix-001

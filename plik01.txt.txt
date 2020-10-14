@@ -4,3 +4,4 @@ Zmoana 02a
 zmiana04
 zmiana05
 zmian 07 Pozdrawiam Cieplutko
+naprawa błędów - hotFix-001
