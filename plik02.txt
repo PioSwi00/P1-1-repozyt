@@ -1,4 +1,4 @@
-zmiana 07B
+zmiana 07B -  Zmiana12
 zmiana
 <<<<<<< HEAD
 naprawa błędów - hotFix-001
